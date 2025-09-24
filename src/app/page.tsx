@@ -216,7 +216,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="flex-1">
-                <h3 className="text-3xl font-bold text-white mb-6">The World's First Gaming-Focused Prediction Market</h3>
+                <h3 className="text-3xl font-bold text-white mb-6">The World&apos;s First Gaming-Focused Prediction Market</h3>
                 <div className="text-lg text-gray-300 space-y-4">
                   <p>
                     While traditional prediction markets focus on politics and economics, Clutch is purpose-built for the $200+ billion gaming industry. Our platform harnesses the collective intelligence of gamers, industry professionals, and analysts to create the most accurate predictions about gaming outcomes, from AAA release dates to esports tournament results.
